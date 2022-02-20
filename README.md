@@ -1,1 +1,1 @@
-# Wsl2-Zsh-Spaceship-Plugins
+# Wsl2-Zsh-Spaceship-Plugins - Ubuntu
