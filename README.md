@@ -5,4 +5,4 @@ Este tutorial trata-se de como configurar o Wsl2 (subsistema Ubuntu 18.04 LTS) n
 
 ## WSL2
 
-dgasgasdgagagag testando a escrita de texto em markdown
+amanhã cedo eu volto pra atualizar
