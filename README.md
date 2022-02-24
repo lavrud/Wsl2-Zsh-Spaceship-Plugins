@@ -1,4 +1,4 @@
 
-![link](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-cgzuv&psig=AOvVaw03uTbnJ0zarqlfQOitjTai&ust=1645759525700000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjlsZSyl_YCFQAAAAAdAAAAABAK)
+![link](https://w7.pngwing.com/pngs/421/366/png-transparent-ubuntu-computer-icons-logo-computer-servers-others-text-orange-logo.png)
 
 ## theme dracula
