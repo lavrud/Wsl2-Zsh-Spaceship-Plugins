@@ -1,3 +1,4 @@
-# Wsl2-Zsh-Spaceship-Plugins - Ubuntu
+
+![alt text](image.jpg)
 
 ## theme dracula
