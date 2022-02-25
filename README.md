@@ -4,8 +4,7 @@ Este tutorial trata-se de como configurar o Wsl2 (subsistema Ubuntu 18.04 LTS) n
 
 ## WSL2
 
-Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows/wsl/install)_,<br>
-análise os pré-requisitos para instalação e siga o passo-a-passo para executar.
+Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows/wsl/install)_, análise os pré-requisitos para instalação <br> e siga o passo-a-passo para executar.
 
 ## ZSH
 
