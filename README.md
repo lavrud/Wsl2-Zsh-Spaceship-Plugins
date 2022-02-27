@@ -22,3 +22,9 @@ _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal s
 
 • Baixe informações de todos os pacotes de fontes configuradas: `sudo apt update`<br>
 • Instale a fonte Fira Code: `sudo apt install fonts-firacode`<br>
+
+## SPACESHIP
+
+• Clone este repositório: `git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1`<br>
+• Crie um Symlink(link simbólico) para o diretório custom/themes: `ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"`<br>
+• Defina `ZSH_THEME="spaceship"` em seu `.zshrc`<br>
