@@ -8,6 +8,4 @@ Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows
 
 ## ZSH
 
-• Comando de instalação:
-
-<code> sudo apt install zsh </code>
+• Comando de instalação: <code> sudo apt install zsh </code>
