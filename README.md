@@ -8,12 +8,17 @@ Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows
 
 ## ZSH
 
-• Instalar Zsh: `sudo apt install zsh`<br>
-• Definir Zsh como padrão: `chsh -s $(which zsh)`
+• Instale o Zsh: `sudo apt install zsh`<br>
+• Defina o Zsh como padrão: `chsh -s $(which zsh)`
 
 ## OH-MY-ZSH
 
-• Instalar Curl+Git: `sudo apt install curl git -y`<br>
-• Instalar Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`<br>
-• Restart terminal (Prompt de Comando - Mode administrator): `wsl --shutdown`<br>
+• Instale Curl+Git: `sudo apt install curl git -y`<br>
+• Instale Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`<br>
+• Restart terminal (prompt de comando - modo administrador): `wsl --shutdown`<br>
 _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal shell(linux)_
+
+## FIRACODE FONT
+
+• Baixe informações de todos os pacotes de fontes configuradas: `sudo apt update`<br>
+• Instale a fonte Fira Code: `sudo apt install fonts-firacode`<br>
