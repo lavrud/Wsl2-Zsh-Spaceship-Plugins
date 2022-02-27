@@ -8,10 +8,10 @@ Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows
 
 ## ZSH
 
-• Instalar Zsh: <code>sudo apt install zsh</code>  
-• Definir Zsh como padrão: <code>chsh -s $(which zsh)</code>
+• Instalar Zsh: `sudo apt install zsh`<br>
+• Definir Zsh como padrão: `chsh -s $(which zsh)`
 
 ## OH-MY-ZSH
 
-• Instalar Curl+Git: <code>sudo apt install curl git -y</code>  
+• Instalar Curl+Git: `sudo apt install curl git -y`<br>
 • Instalar Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
