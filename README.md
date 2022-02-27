@@ -14,4 +14,4 @@ Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows
 ## OH-MY-ZSH
 
 • Instalar Curl+Git: <code>sudo apt install curl git -y</code>  
-• Instalar Oh-My-Zsh: <code>sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"</code>
+• Instalar Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
