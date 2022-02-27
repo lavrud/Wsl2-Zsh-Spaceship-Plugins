@@ -27,7 +27,7 @@ _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal s
 
 • Clone este repositório: `git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1`<br>
 • Crie um Symlink(link simbólico) para o diretório custom/themes: `ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"`<br>
-• Defina `ZSH_THEME="spaceship"` em seu `~/.zshrc`<br>
+• Defina `ZSH_THEME="spaceship"` em seu `~/.zshrc`
 
 ## ZINIT Plugin
 
@@ -36,6 +36,6 @@ _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal s
 
 <!-- ### End of Zinit's installer chunk -->
 
-**zinit light zdharma/fast-syntax-highlighting**
-**zinit light zsh-users/zsh-autosuggestions**
+**zinit light zdharma/fast-syntax-highlighting**<br>
+**zinit light zsh-users/zsh-autosuggestions**<br>
 **zinit light zsh-users/zsh-completions**
