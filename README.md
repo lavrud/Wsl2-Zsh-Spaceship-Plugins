@@ -18,7 +18,7 @@ Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows
 • Restart terminal (prompt de comando - modo administrador): `wsl --shutdown`<br>
 _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal shell(linux)_
 
-## FIRACODE FONT
+## FIRA CODE
 
 • Baixe informações de todos os pacotes de fontes configuradas: `sudo apt update`<br>
 • Instale a fonte Fira Code: `sudo apt install fonts-firacode`<br>
