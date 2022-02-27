@@ -34,8 +34,6 @@ _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal s
 • Instale Zinit: `sh -c "$(curl -fsSL https://git.io/zinit-install)"`<br>
 • Abra o arquivo `~/.zshrc` novamente e abaixo da linha ### End of ZInit's installer chunk escreva:
 
-<!-- ### End of Zinit's installer chunk -->
-
-**zinit light zdharma/fast-syntax-highlighting**<br>
-**zinit light zsh-users/zsh-autosuggestions**<br>
-**zinit light zsh-users/zsh-completions**
+`zinit light zdharma/fast-syntax-highlighting`<br>
+`zinit light zsh-users/zsh-autosuggestions`<br>
+`zinit light zsh-users/zsh-completions`
