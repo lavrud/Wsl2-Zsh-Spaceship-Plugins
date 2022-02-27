@@ -15,7 +15,7 @@ Acesse este link para _[Instalar o WSL](https://docs.microsoft.com/pt-br/windows
 
 • Instale Curl+Git: `sudo apt install curl git -y`<br>
 • Instale Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`<br>
-• Restart terminal (prompt de comando - modo administrador): `wsl --shutdown`<br>
+• Restart terminal (executando prompt de comando em modo administrador): `wsl --shutdown`<br>
 _Obs: Depois de executar o comando acima, feche o terminal e reabra o terminal shell(linux)_
 
 ## FIRA CODE
