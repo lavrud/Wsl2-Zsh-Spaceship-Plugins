@@ -39,7 +39,7 @@ _[https://github.com/spaceship-prompt/spaceship-prompt](https://github.com/space
 
 _[https://github.com/zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit)_
 
-• Instale Zinit: `sh -c "$(curl -fsSL https://git.io/zinit-install)"`<br>
+• Instale Zinit: `bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/zdharma-continuum/zinit/HEAD/scripts/install.sh)"`<br>
 • Abra o arquivo `~/.zshrc` novamente e abaixo da linha _### End of ZInit's installer chunk_ escreva:
 
 `zinit light zdharma/fast-syntax-highlighting`<br>
